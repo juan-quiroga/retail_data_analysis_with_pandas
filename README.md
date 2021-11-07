@@ -1,6 +1,6 @@
 ## Analysis of sales data set
 
-We use Python tools for the analysis of sales data. This data set consists of three csv files with information of 45 stores located in different regions. We try a small analysis of seasonal sales, and the dates corresponding to highest amount of them.
+We use Python tools for the analysis of sales data. This data set consists of three csv files with information of 45 stores located in different regions. We try a small analysis of seasonal sales, and the dates corresponding to the highest amount of them.
 
 **Content:**
 
