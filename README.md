@@ -4,11 +4,11 @@ We use Python tools for the analysis of sales data. This data set consists of th
 
 **Content:**
 
-- Stores: with type and size.
+- Stores.csv: with type and size.
 
-- Features: with additional data information like date of the week, temperature, unemployement, etc.
+- Features.csv: with additional data information like date of the week, temperature, unemployement, etc.
 
-- Sales: including store, date, weekly sales.
+- Sales.csv: including store, date, weekly sales.
 
 Source: https://www.kaggle.com/manjeetsingh/retaildataset
 
